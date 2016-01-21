@@ -11,7 +11,7 @@
 
 ###如何使用？
 
-1. index.html中样例所示，引入如下js
+1. demo/index.html中样例所示，引入如下js
 ```html
 	<script type="text/javascript" src="./js/util.js"></script>
     <script type="text/javascript" src="./js/date.js"></script>
