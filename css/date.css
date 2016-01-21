@@ -1,0 +1,76 @@
+.ui-date-bg{
+background: #fff;
+line-height: 44px;
+width: 100%;
+}
+.ui-date-bg.blue{
+background: #359de4 !important;
+}
+
+.ui-date-input{
+color:#00a5e1;
+display:inline;
+margin:3px auto;
+height:28px;
+width:80px;
+background:#FFFFFF;
+font-size:13px;
+text-align:center;
+border:0;
+background-color:transparent;   
+}
+
+.ui-date-slectdate{
+    width: 50%;
+    text-align: center;
+}
+
+.ui-date-week{
+color:#359de4;
+font-size:13px;
+}
+
+.ui-date-bg.blue .ui-date-txt{
+color:#fff;
+}
+
+.ui-date-bg .ui-date-txt{
+color: #359de4;
+}
+
+.ui-date-opear{
+width: 25%;
+}
+
+.ui-date-opearsub{
+padding-left: 10px;
+text-align: left;
+}
+
+.ui-date-opearadd{
+padding-right: 10px;
+text-align: right;
+}
+
+.ui-date-bg .ui-date-opearstyle{
+/* font-size: 20px; */
+color: #359de4;
+}
+
+.ui-date-bg.blue .ui-date-opearstyle{
+/* font-size: 20px; */
+color:#fff;
+}
+
+.ui-date-opear.disable .ui-date-opearstyle{
+color: #bec6cc;
+}
+
+.ui-date-opearsub .ui-date-opearstyle:before{
+font-family: "icomoon" !important;
+content: "<";
+}
+.ui-date-opearadd .ui-date-opearstyle:after{
+font-family: "icomoon" !important;
+content: ">";
+}
